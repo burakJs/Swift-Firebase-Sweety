@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>425387711068-do3k05jk0306fcg7816qu58teci71epo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.425387711068-do3k05jk0306fcg7816qu58teci71epo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQf8ilgG2X-TxyvOT4ulRK0jMGoe1Hv78</string>
+	<key>GCM_SENDER_ID</key>
+	<string>425387711068</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SrBurak.Sweety</string>
+	<key>PROJECT_ID</key>
+	<string>sweet-98235</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sweet-98235.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:425387711068:ios:3357c059115cfc7ae5e499</string>
+</dict>
+</plist>
